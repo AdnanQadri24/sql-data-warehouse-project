@@ -114,4 +114,4 @@ Hi there! I'm Adnan Al Qadri, a Computer Engineering student with a deep passion
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
-[![LinkedIn](https://www.linkedin.com/in/adnan-al-qadri-a08811296/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adnan-al-qadri-a08811296)
